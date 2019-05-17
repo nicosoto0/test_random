@@ -18,4 +18,4 @@ a1 = car(4, 1000)
 if a1.need_change():
     print("cambiar aceite")
 else:
-    print("todo bien")
+    print("Seguir andando")
