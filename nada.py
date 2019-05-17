@@ -2,7 +2,7 @@ class car:
     def __init__(self, ruedas, km):
         self.ruedas = ruedas
         self.km = km
-        self.last_oil = 0
+        self.last_oil = 1000
 
     def avanzar(self, km):
         self.km += km

@@ -33,4 +33,10 @@ la branch que se Crear es un copia de la branch en que te encuentras
 change to branches
 ```console
 git checkout [name_branch]
-``
+```
+
+fist commit from a branch
+```console
+git push --set-upstream origin nico
+```
+
