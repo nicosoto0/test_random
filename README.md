@@ -51,8 +51,9 @@ httparty #gem install httparty
 
 
 ## Como correr codigo
-
+```console
 ruby main.rb
+```
 
 ## Herrramientas usadas
 
